@@ -9,6 +9,7 @@ const Index = () => {
         <Link href="/todo">todo example</Link>
         <Link href="/fetching">fetching example</Link>
         <Link href="/modal">modal example</Link>
+        <Link href="/control">controlled input example</Link>
       </div>
     </>
   );
